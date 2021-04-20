@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+.star{
+  background: url('../images/star.png') no-repeat right 0;
+  background-size: auto 100%;
+  width: 25px;
+  height: 25px;
+  display: inline-block;
+  text-indent: -9999px; 
+}
+.star.on{background-position:0 0;}
+
+.event{
+	width: 200px;
+	height: 150px; 
+	float: left;
+}
+
+
+#loginOutBtn, #loginBtn {
+	min-width: auto;
+	padding: 0 12px;
+	font-size: 12.5px;
+	height: 32px;
+	line-height: 32px;
+	background: #fff;
+	border: 1px solid #9c836a;
+	color: #9c836a;
+}
+
+#loginOutBtn:hover, #loginBtn:hover {
+	text-decoration: none;
+	cursor: pointer;
+	color: #fff;
+	background: #9c836a;
+}
+

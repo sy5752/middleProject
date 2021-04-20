@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sqlMap
+	PUBLIC "-//ibatis.apache.org//DTD SQL Map 2.0//EN"
+	"http://ibatis.apache.org/dtd/dtd-map-2.dtd">
+
+<sqlMap namespace="resvlog">
+	<!-- 개인이 예약한 예약로그 모두 가져오기 -->
+	<select id="getresvLogAllList" parameterClass="String" resultClass="resvlogVO">
+		SELECT * 
+		FROM resvlog
+		WHERE resev_state='예약'
+		AND mem_id = #mem_id#
+		ORDER BY resev_no
+	</select>
+
+	<update id="resvLogUpdate" parameterClass="resvlogVO">
+		UPDATE resvlog SET resev_state=#resev_state#, resev_date=sysdate
+		WHERE resev_no=#resev_no#</update>
+
+
+	<insert id="insertResVLog" parameterClass="resvlogVO" >
+		INSERT INTO RESVLOG
+		VALUES(resvlog_seq.nextval,#room_in#,#room_out#,#mem_id#,#room_pl#,#room_no#,#room_type#,#room_num#,'예약',sysdate)
+		<selectKey resultClass="int" keyProperty="resev_no">select
+			resvlog_seq.currval from dual </selectKey>
+
+	</insert>
+	
+	<select id="getresvLogAllList2" parameterClass="String" resultClass="resvlogVO">
+		SELECT * 
+		FROM resvlog
+		WHERE resev_state='예약'
+		ORDER BY resev_no
+	</select>
+	
+	<!-- <select id="getResvlogDateMoney" parameterClass="String" resultClass="map" remapResults="true"> -->
+	<select id="getResvlogDateMoney" parameterClass="String" resultClass="resvlogVO">
+		<!-- select *
+		from resvlog
+		where resev_state = '결제'
+		and to_char(resev_date, 'yyyymm') = #resev_date# -->
+		select a.resev_no, a.room_in, a.room_out,
+        a.mem_id, a.room_pl, a.room_no,
+        a.room_type, a.room_num, a.resev_state, a.resev_date,
+        a.sales
+		from
+		    (select resev_no, room_in, room_out,
+		        mem_id, room_pl, room_no,
+		        room_type, room_num, resev_state, resev_date,
+		            case
+		                when room_type = '싱글' then 10000
+		                when room_type = '더블' then 20000
+		                when room_type = '스위트' then 40000
+		                end sales
+		    from resvlog) a
+		where a.resev_state = '결제'
+		and to_char(a.resev_date, 'yyyymm') = #resev_date#
+	</select>
+	
+</sqlMap>

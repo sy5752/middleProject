@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/js/mapAPI.jsp=UTF-8
+encoding//res/ibatis/config/SqlMapClientFactory.java=UTF-8
+encoding//res/xlog4j.properties=UTF-8
+encoding//src/controller/LoginIn.java=UTF-8
+encoding//src/dao/HotelDaoImpl.java=UTF-8
+encoding//src/login/LoginController.java=UTF-8
+encoding//src/util/BuildedSqlMapClient.java=UTF-8

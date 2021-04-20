@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE sqlMap
+ 	PUBLIC "-//ibatis.apache.org//DTD SQL Map 2.0//EN"
+ 	"http://ibatis.apache.org/dtd/dtd-map-2.dtd">
+
+<sqlMap namespace="memberinfo">
+
+	<select id="getMemberInfo" parameterClass="memberinfoVO" resultClass="memberinfoVO">
+		select *
+		from memberinfo
+		where mem_id = #mem_id#
+		and mem_pass = #mem_pass# 
+	</select>
+	
+	<select id="getMemberInfoVal" parameterClass="String" resultClass="memberinfoVO">
+		select *
+		from memberinfo
+		where mem_id = #mem_id#
+	</select>
+	
+	<update id="updateMemberInfo" parameterClass="memberinfoVO">
+		update memberinfo set 
+			mem_name = #mem_name#, mem_tel = #mem_tel#, 
+    	    mem_addr = #mem_addr#, mem_email = #mem_email#
+		where mem_id = #mem_id#
+	</update>
+	
+	<select id="getMemberInfoList" resultClass="memberinfoVO">
+		select *
+		from memberinfo
+		order by mem_id
+	</select>
+	
+	<update id="MemberInfoUpdate" parameterClass="memberinfoVO">
+		update memberinfo set 
+			mem_pass = #mem_pass#, mem_name = #mem_name#, 
+			mem_tel = #mem_tel#, mem_addr = #mem_addr#, 
+			mem_email = #mem_email#, power = #power#
+		where mem_id = #mem_id#
+	</update> 	
+	
+	
+	<select id="selectById" parameterClass="string"
+		resultClass="string">
+		SELECT mem_id FROM memberinfo WHERE mem_id = #data#
+	</select>
+
+
+	<insert id="insertMember" parameterClass="memberinfoVO">
+		insert into memberinfo values(
+			#mem_id#,#mem_pass#,#mem_name#,to_date(#mem_bir#, 'yyyy-mm-dd'),
+			#mem_tel#,#mem_addr#,#mem_email#,#power#
+		)
+	</insert>
+	
+	<delete id="deleteMember" parameterClass="String">
+		delete memberinfo where mem_id = #mem_id#
+	</delete>
+	
+	<select id="getMemberId" parameterClass="memberinfoVO" resultClass="String">
+		select mem_id
+		from memberinfo
+		where mem_name = #mem_name#
+		and mem_email = #mem_email#
+	</select>
+	
+	<select id="getMemberPassword" parameterClass="memberinfoVO" resultClass="String">
+		select mem_pass
+		from memberinfo
+		where mem_name = #mem_name#
+		and mem_email = #mem_email#
+		and mem_id = #mem_id#
+	</select>
+	
+	<update id="updateMemberWithdraw" parameterClass="String">
+		update memberinfo set power = 2 where mem_id = #mem_id#
+	</update>
+
+</sqlMap>
+
+
+
+
+ 	
+ 	

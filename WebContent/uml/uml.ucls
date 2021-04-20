@@ -1,0 +1,1216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="controller.RoomList" project="hotel" file="/hotel/src/controller/RoomList.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="288" x="21034" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="controller.getresvLogAllList" project="hotel" 
+    file="/hotel/src/controller/getresvLogAllList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="19791" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="controller.ReviewUpdate" project="hotel" 
+    file="/hotel/src/controller/ReviewUpdate.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="8881" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="controller.GetMemberInfoList" project="hotel" 
+    file="/hotel/src/controller/GetMemberInfoList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="284" x="45" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="controller.ReviewDelete" project="hotel" 
+    file="/hotel/src/controller/ReviewDelete.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="284" x="4571" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="controller.AdminLogOut" project="hotel" 
+    file="/hotel/src/controller/AdminLogOut.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="284" x="15629" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="controller.ReviewSave" project="hotel" 
+    file="/hotel/src/controller/ReviewSave.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="8229" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="controller.RoomNum" project="hotel" file="/hotel/src/controller/RoomNum.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="16129" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="controller.InsertMember" project="hotel" 
+    file="/hotel/src/controller/InsertMember.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="4243" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="controller.ResvStatusUpdate" project="hotel" 
+    file="/hotel/src/controller/ResvStatusUpdate.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="288" x="11666" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="controller.MemberJoin" project="hotel" 
+    file="/hotel/src/controller/MemberJoin.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="288" x="17307" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="controller.QBoardDelete" project="hotel" 
+    file="/hotel/src/controller/QBoardDelete.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="284" x="12522" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="controller.FindId" project="hotel" file="/hotel/src/controller/FindId.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="7245" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="controller.MyAuthentication2" project="hotel" 
+    file="/hotel/src/controller/SendMailFindId.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="290" x="19133" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="controller.QBoardSave" project="hotel" 
+    file="/hotel/src/controller/QBoardSave.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="12846" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="controller.MyAuthentication3" project="hotel" 
+    file="/hotel/src/controller/SendMailFindPassWord.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="290" x="1892" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="controller.QBoardUpdate" project="hotel" 
+    file="/hotel/src/controller/QBoardUpdate.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="18149" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="controller.AmenityServlet" project="hotel" 
+    file="/hotel/src/controller/AmenityServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="288" x="9537" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="controller.RevReplayModify" project="hotel" 
+    file="/hotel/src/controller/RevReplayModify.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="6593" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="controller.NoticeUpdate" project="hotel" 
+    file="/hotel/src/controller/NoticeUpdate.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="7573" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="controller.RevReplySave" project="hotel" 
+    file="/hotel/src/controller/RevReplySave.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="3915" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="controller.NoticeList" project="hotel" 
+    file="/hotel/src/controller/NoticeList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="288" x="15098" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="controller.ReviewSave2" project="hotel" 
+    file="/hotel/src/controller/ReviewSave2.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="20119" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="controller.DeleteRoom" project="hotel" 
+    file="/hotel/src/controller/DeleteRoom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="2222" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="controller.InsertRoom" project="hotel" 
+    file="/hotel/src/controller/InsertRoom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="22018" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="controller.QBoardUpdate2" project="hotel" 
+    file="/hotel/src/controller/QBoardUpdate2.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="1236" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="controller.QBoardList" project="hotel" 
+    file="/hotel/src/controller/QBoardList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="17635" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="controller.NoticeSave" project="hotel" 
+    file="/hotel/src/controller/NoticeSave.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="7901" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="controller.ResvLogAllList" project="hotel" 
+    file="/hotel/src/controller/ResvLogAllList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="288" x="6080" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="controller.MemberInfoUpdate" project="hotel" 
+    file="/hotel/src/controller/MemberInfoUpdate.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="727" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="controller.InsertResVLog" project="hotel" 
+    file="/hotel/src/controller/InsertResVLog.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="9209" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="controller.AdminLoginIn" project="hotel" 
+    file="/hotel/src/controller/AdminLoginIn.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="19463" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="controller.QBoardSave2" project="hotel" 
+    file="/hotel/src/controller/QBoardSave2.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="1564" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="controller.RevReplyDelete" project="hotel" 
+    file="/hotel/src/controller/RevReplyDelete.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="284" x="8557" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="controller.SendMailTest" project="hotel" 
+    file="/hotel/src/controller/SendMailTest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="125" x="10521" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="controller.Amenity" project="hotel" file="/hotel/src/controller/Amenity.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="14118" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="controller.RevReplyList" project="hotel" 
+    file="/hotel/src/controller/RevReplyList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="11994" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="controller.IdCheck" project="hotel" file="/hotel/src/controller/IdCheck.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="9865" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="controller.MyMemberInfoUpdate" project="hotel" 
+    file="/hotel/src/controller/MyMemberInfoUpdate.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="18477" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="controller.DeleteMember" project="hotel" 
+    file="/hotel/src/controller/DeleteMember.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="21362" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="controller.getRoomInfo" project="hotel" 
+    file="/hotel/src/controller/getRoomInfo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="284" x="2550" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="controller.MyMemberInfoList" project="hotel" 
+    file="/hotel/src/controller/MyMemberInfoList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="10193" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="controller.LogOut" project="hotel" file="/hotel/src/controller/LogOut.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="284" x="14446" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="controller.updateRoomStatus" project="hotel" 
+    file="/hotel/src/controller/updateRoomStatus.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="13174" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="controller.QReplyList" project="hotel" 
+    file="/hotel/src/controller/QReplyList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="10686" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="controller.updateSession" project="hotel" 
+    file="/hotel/src/controller/updateSession.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="20706" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" name="controller.ReviewUpdate2" project="hotel" 
+    file="/hotel/src/controller/ReviewUpdate2.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="5424" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="controller.ReviewDelete2" project="hotel" 
+    file="/hotel/src/controller/ReviewDelete2.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="284" x="13794" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="controller.FindPassWord" project="hotel" 
+    file="/hotel/src/controller/FindPassWord.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="4895" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="controller.VoteUpdate" project="hotel" 
+    file="/hotel/src/controller/VoteUpdate.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="288" x="16979" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="controller.NoticeDelete" project="hotel" 
+    file="/hotel/src/controller/NoticeDelete.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="284" x="6921" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="controller.SendMailFindId" project="hotel" 
+    file="/hotel/src/controller/SendMailFindId.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="177" x="369" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="53" language="java" name="controller.MyAuthentication" project="hotel" 
+    file="/hotel/src/controller/SendMailTest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="290" x="2874" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="54" language="java" name="controller.QBoardDelete2" project="hotel" 
+    file="/hotel/src/controller/QBoardDelete2.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="284" x="11342" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="55" language="java" name="controller.QReplayModify" project="hotel" 
+    file="/hotel/src/controller/QReplayModify.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="21690" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="56" language="java" name="controller.LoginIn" project="hotel" file="/hotel/src/controller/LoginIn.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="11014" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="57" language="java" name="controller.QReplyDelete" project="hotel" 
+    file="/hotel/src/controller/QReplyDelete.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="284" x="3204" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="58" language="java" name="controller.ReviewList" project="hotel" 
+    file="/hotel/src/controller/ReviewList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="288" x="5752" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="59" language="java" name="controller.QReplySave" project="hotel" 
+    file="/hotel/src/controller/QReplySave.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="16651" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="60" language="java" name="controller.getResvlogDateMoney" project="hotel" 
+    file="/hotel/src/controller/getResvlogDateMoney.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="18805" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="61" language="java" name="controller.UpdateMemberWithdraw" project="hotel" 
+    file="/hotel/src/controller/UpdateMemberWithdraw.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="288" x="14770" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="62" language="java" name="controller.SendMailFindPassWord" project="hotel" 
+    file="/hotel/src/controller/SendMailFindPassWord.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="219" x="20447" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="63" language="java" name="controller" project="hotel" file="/hotel/src/controller" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="586" y="37"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="64" language="java" name="dao.ResVLogDaoImpl" project="hotel" file="/hotel/src/dao/ResVLogDaoImpl.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="257" x="23098" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="65" language="java" name="dao.IResVLogDao" project="hotel" file="/hotel/src/dao/IResVLogDao.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="257" x="23098" y="752"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="66" language="java" name="dao.FacDaoImpl" project="hotel" file="/hotel/src/dao/FacDaoImpl.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="178" x="25369" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="67" language="java" name="dao.MemberInfoDaoImpl" project="hotel" 
+    file="/hotel/src/dao/MemberInfoDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="252" x="13502" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="68" language="java" name="dao.QBoardDaoImpl" project="hotel" file="/hotel/src/dao/QBoardDaoImpl.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="268" x="26480" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="69" language="java" name="dao.IReviewDao" project="hotel" file="/hotel/src/dao/IReviewDao.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="266" x="24795" y="752"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="70" language="java" name="dao.AdminInfoDaoImpl" project="hotel" file="/hotel/src/dao/AdminInfoDaoImpl.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="228" x="22522" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="71" language="java" name="dao.IFacDao" project="hotel" file="/hotel/src/dao/IFacDao.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="178" x="25369" y="752"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="72" language="java" name="dao.ReviewDaoImpl" project="hotel" file="/hotel/src/dao/ReviewDaoImpl.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="266" x="24795" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="73" language="java" name="dao.IAdminInfoDao" project="hotel" file="/hotel/src/dao/IAdminInfoDao.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="228" x="22522" y="752"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="74" language="java" name="dao.HotelDaoImpl" project="hotel" file="/hotel/src/dao/HotelDaoImpl.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="255" x="23692" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="75" language="java" name="dao.IMemberInfoDao" project="hotel" file="/hotel/src/dao/IMemberInfoDao.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="252" x="13502" y="752"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="76" language="java" name="dao.INoticeDao" project="hotel" file="/hotel/src/dao/INoticeDao.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="255" x="25879" y="752"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="77" language="java" name="dao.IQBoardDao" project="hotel" file="/hotel/src/dao/IQBoardDao.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="268" x="26480" y="752"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="78" language="java" name="dao.IHotelDao" project="hotel" file="/hotel/src/dao/IHotelDao.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="255" x="23692" y="752"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="79" language="java" name="dao.NoticeDaoImpl" project="hotel" file="/hotel/src/dao/NoticeDaoImpl.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="255" x="25879" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="80" language="java" name="service.NoticeServiceImpl" project="hotel" 
+    file="/hotel/src/service/NoticeServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="255" x="24282" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="81" language="java" name="service.ResVLogServiceImpl" project="hotel" 
+    file="/hotel/src/service/ResVLogServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="257" x="23395" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="82" language="java" name="service.IQBoardService" project="hotel" 
+    file="/hotel/src/service/IQBoardService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="268" x="22790" y="752"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="83" language="java" name="service.IFacService" project="hotel" 
+    file="/hotel/src/service/IFacService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="178" x="24577" y="752"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="84" language="java" name="service.IHotelService" project="hotel" 
+    file="/hotel/src/service/IHotelService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="255" x="23987" y="752"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="85" language="java" name="service.IResVLogService" project="hotel" 
+    file="/hotel/src/service/IResVLogService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="257" x="23395" y="752"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="86" language="java" name="service.IMemberInfoService" project="hotel" 
+    file="/hotel/src/service/IMemberInfoService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="252" x="25587" y="752"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="87" language="java" name="service.AdminInfoServiceImpl" project="hotel" 
+    file="/hotel/src/service/AdminInfoServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="228" x="25101" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="88" language="java" name="service.FacServiceImpl" project="hotel" 
+    file="/hotel/src/service/FacServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="178" x="24577" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="89" language="java" name="service.HotelServiceImpl" project="hotel" 
+    file="/hotel/src/service/HotelServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="255" x="23987" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="90" language="java" name="service.ReviewServiceImpl" project="hotel" 
+    file="/hotel/src/service/ReviewServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="266" x="26174" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="91" language="java" name="service.IReviewService" project="hotel" 
+    file="/hotel/src/service/IReviewService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="266" x="26174" y="752"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="92" language="java" name="service.MemberInfoServiceImpl" project="hotel" 
+    file="/hotel/src/service/MemberInfoServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="252" x="25587" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="93" language="java" name="service.INoticeService" project="hotel" 
+    file="/hotel/src/service/INoticeService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="255" x="24282" y="752"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="94" language="java" name="service.IAdminInfoService" project="hotel" 
+    file="/hotel/src/service/IAdminInfoService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="228" x="25101" y="752"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="95" language="java" name="service.QBoardServiceImpl" project="hotel" 
+    file="/hotel/src/service/QBoardServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="268" x="22790" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="96" language="java" name="vo.AdminInfoVO" project="hotel" file="/hotel/src/vo/AdminInfoVO.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="160" x="12322" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="97" language="java" name="vo.ReviewVO" project="hotel" file="/hotel/src/vo/ReviewVO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="351" width="146" x="17963" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="98" language="java" name="vo.RoomVO" project="hotel" file="/hotel/src/vo/RoomVO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="297" width="163" x="15426" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="99" language="java" name="vo.MemberInfoVO" project="hotel" file="/hotel/src/vo/MemberInfoVO.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="513" width="154" x="16457" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="100" language="java" name="vo.NoticeVO" project="hotel" file="/hotel/src/vo/NoticeVO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="351" width="145" x="6408" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="101" language="java" name="vo.FacVO" project="hotel" file="/hotel/src/vo/FacVO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="243" width="136" x="15953" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="102" language="java" name="vo.ResvlogVO" project="hotel" file="/hotel/src/vo/ResvlogVO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="675" width="161" x="5223" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="103" language="java" name="vo.RevReplyVO" project="hotel" file="/hotel/src/vo/RevReplyVO.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="162" x="3528" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="104" language="java" name="vo.QBoardVO" project="hotel" file="/hotel/src/vo/QBoardVO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="351" width="136" x="22346" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="105" language="java" name="vo.QReplyVO" project="hotel" file="/hotel/src/vo/QReplyVO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="351" width="145" x="3730" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="106" language="java" name="vo.VoteVO" project="hotel" file="/hotel/src/vo/VoteVO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="141" x="1055" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="107">    
+    <end type="SOURCE" refId="64" navigable="false">      
+      <attribute id="108" name="dao"/>      
+      <multiplicity id="109" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="65" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="110">    
+    <end type="SOURCE" refId="89" navigable="false">      
+      <attribute id="111" name="dao"/>      
+      <multiplicity id="112" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="78" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="113">    
+    <end type="SOURCE" refId="80" navigable="false">      
+      <attribute id="114" name="dao"/>      
+      <multiplicity id="115" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="116">    
+    <end type="SOURCE" refId="72" navigable="false">      
+      <attribute id="117" name="dao"/>      
+      <multiplicity id="118" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="69" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="119">    
+    <end type="SOURCE" refId="92"/>    
+    <end type="TARGET" refId="86"/>  
+  </realization>  
+  <realization id="120">    
+    <end type="SOURCE" refId="79"/>    
+    <end type="TARGET" refId="76"/>  
+  </realization>  
+  <association id="121">    
+    <end type="SOURCE" refId="95" navigable="false">      
+      <attribute id="122" name="service"/>      
+      <multiplicity id="123" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="82" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="124">    
+    <end type="SOURCE" refId="87" navigable="false">      
+      <attribute id="125" name="dao"/>      
+      <multiplicity id="126" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="73" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="127">    
+    <end type="SOURCE" refId="89" navigable="false">      
+      <attribute id="128" name="service"/>      
+      <multiplicity id="129" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="84" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="130">    
+    <end type="SOURCE" refId="88" navigable="false">      
+      <attribute id="131" name="service"/>      
+      <multiplicity id="132" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="83" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="133">    
+    <end type="SOURCE" refId="90" navigable="false">      
+      <attribute id="134" name="dao"/>      
+      <multiplicity id="135" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="69" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="136">    
+    <end type="SOURCE" refId="66" navigable="false">      
+      <attribute id="137" name="dao"/>      
+      <multiplicity id="138" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="71" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="139">    
+    <end type="SOURCE" refId="89"/>    
+    <end type="TARGET" refId="84"/>  
+  </realization>  
+  <association id="140">    
+    <end type="SOURCE" refId="79" navigable="false">      
+      <attribute id="141" name="dao"/>      
+      <multiplicity id="142" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="143">    
+    <end type="SOURCE" refId="70" navigable="false">      
+      <attribute id="144" name="dao"/>      
+      <multiplicity id="145" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="73" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="146">    
+    <end type="SOURCE" refId="87" navigable="false">      
+      <attribute id="147" name="service"/>      
+      <multiplicity id="148" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="94" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="149">    
+    <end type="SOURCE" refId="67"/>    
+    <end type="TARGET" refId="75"/>  
+  </realization>  
+  <realization id="150">    
+    <end type="SOURCE" refId="68"/>    
+    <end type="TARGET" refId="77"/>  
+  </realization>  
+  <association id="151">    
+    <end type="SOURCE" refId="81" navigable="false">      
+      <attribute id="152" name="service"/>      
+      <multiplicity id="153" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="154">    
+    <end type="SOURCE" refId="87"/>    
+    <end type="TARGET" refId="94"/>  
+  </realization>  
+  <realization id="155">    
+    <end type="SOURCE" refId="64"/>    
+    <end type="TARGET" refId="65"/>  
+  </realization>  
+  <association id="156">    
+    <end type="SOURCE" refId="80" navigable="false">      
+      <attribute id="157" name="service"/>      
+      <multiplicity id="158" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="93" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="159">    
+    <end type="SOURCE" refId="81" navigable="false">      
+      <attribute id="160" name="dao"/>      
+      <multiplicity id="161" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="65" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="162">    
+    <end type="SOURCE" refId="66"/>    
+    <end type="TARGET" refId="71"/>  
+  </realization>  
+  <association id="163">    
+    <end type="SOURCE" refId="95" navigable="false">      
+      <attribute id="164" name="dao"/>      
+      <multiplicity id="165" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="77" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="166">    
+    <end type="SOURCE" refId="72"/>    
+    <end type="TARGET" refId="69"/>  
+  </realization>  
+  <realization id="167">    
+    <end type="SOURCE" refId="81"/>    
+    <end type="TARGET" refId="85"/>  
+  </realization>  
+  <association id="168">    
+    <end type="SOURCE" refId="92" navigable="false">      
+      <attribute id="169" name="dao"/>      
+      <multiplicity id="170" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="75" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="171">    
+    <end type="SOURCE" refId="80"/>    
+    <end type="TARGET" refId="93"/>  
+  </realization>  
+  <realization id="172">    
+    <end type="SOURCE" refId="95"/>    
+    <end type="TARGET" refId="82"/>  
+  </realization>  
+  <realization id="173">    
+    <end type="SOURCE" refId="70"/>    
+    <end type="TARGET" refId="73"/>  
+  </realization>  
+  <association id="174">    
+    <end type="SOURCE" refId="92" navigable="false">      
+      <attribute id="175" name="service"/>      
+      <multiplicity id="176" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="86" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="177">    
+    <end type="SOURCE" refId="90"/>    
+    <end type="TARGET" refId="91"/>  
+  </realization>  
+  <realization id="178">    
+    <end type="SOURCE" refId="88"/>    
+    <end type="TARGET" refId="83"/>  
+  </realization>  
+  <association id="179">    
+    <end type="SOURCE" refId="67" navigable="false">      
+      <attribute id="180" name="dao"/>      
+      <multiplicity id="181" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="75" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="182">    
+    <end type="SOURCE" refId="74"/>    
+    <end type="TARGET" refId="78"/>  
+  </realization>  
+  <association id="183">    
+    <end type="SOURCE" refId="90" navigable="false">      
+      <attribute id="184" name="service"/>      
+      <multiplicity id="185" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="91" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="186">    
+    <end type="SOURCE" refId="88" navigable="false">      
+      <attribute id="187" name="dao"/>      
+      <multiplicity id="188" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="71" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="189">    
+    <end type="SOURCE" refId="68" navigable="false">      
+      <attribute id="190" name="dao"/>      
+      <multiplicity id="191" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="77" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="192">    
+    <end type="SOURCE" refId="74" navigable="false">      
+      <attribute id="193" name="dao"/>      
+      <multiplicity id="194" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="78" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

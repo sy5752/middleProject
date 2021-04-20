@@ -1,0 +1,72 @@
+@charset "UTF-8";
+
+#maintitle{
+	font-weight: bold;
+	color: #9c836a;
+}
+/* #tabletitle{ */
+/* 	color: #fff; */
+/* 	background: #9c836a; */
+/* 	border: 2px solid BLACK; */
+/* 	font-weight : bold; */
+/* } */
+/* table{ */
+/* 	text-align: center; */
+/* 	weight : auto; */
+/* } */
+
+#div_result{
+	margin-top: 40px;
+	border-top: 2px solid #9c836a;	
+}
+table.getresvLogAllListTable {
+  min-width: 1000px;
+  border-collapse: collapse;
+  text-align: left;
+  line-height: 1.5;
+  border: 1px solid #ccc;
+  margin: 20px 10px;
+}
+table.getresvLogAllListTable thead {
+  border-right: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+  background: #9c836a;
+}
+table.getresvLogAllListTable thead th {
+  padding: 10px;
+  font-weight: bold;
+  vertical-align: top;
+  color: #fff;
+}
+table.getresvLogAllListTable tbody th {
+  width: 150px;
+  padding: 10px;
+  font-weight: bold;
+  vertical-align: top;
+  border-bottom: 1px solid #ccc;
+  background: 	#E8E0D7;
+}
+table.getresvLogAllListTable td {
+  width: 350px;
+  padding: 10px;
+  vertical-align: top;
+  border-bottom: 1px solid #ccc;
+}
+
+#loginOutBtn, #loginBtn {
+	min-width: auto;
+	padding: 0 12px;
+	font-size: 12.5px;
+	height: 32px;
+	line-height: 32px;
+	background: #fff;
+	border: 1px solid #9c836a;
+	color: #9c836a;
+}
+
+#loginOutBtn:hover, #loginBtn:hover {
+	text-decoration: none;
+	cursor: pointer;
+	color: #fff;
+	background: #9c836a;
+}
